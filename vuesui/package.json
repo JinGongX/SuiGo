@@ -1,0 +1,42 @@
+{
+  "name": "sui",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@excalidraw/excalidraw": "^0.11.0",
+    "axios": "^0.17.1",
+    "dayjs": "^1.11.9",
+    "element-plus": "^2.3.7",
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.10.1",
+    "jspdf": "^2.5.1",
+    "md-editor-v3": "^4.18.0",
+    "moment": "^2.29.4",
+    "pdfjs-dist": "^4.0.269",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "router": "^1.3.8",
+    "v-axios": "^3.0.9",
+    "vditor": "^3.9.4",
+    "vue": "^3.3.4",
+    "vue-axios": "^3.5.2",
+    "vue-html2pdf": "^1.8.0",
+    "vue-native-websocket": "^2.0.15",
+    "vue-pdf": "^4.3.0",
+    "vue-router": "^4.2.2",
+    "vue3-pdf-app": "^1.0.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "node-sass": "^9.0.0",
+    "sass": "^1.63.6",
+    "sass-loader": "^13.3.2",
+    "svg-sprite-loader": "^2.0.3",
+    "vite": "^4.3.9"
+  }
+}
