@@ -9,7 +9,7 @@
 1.  项目主要后端【go-suiapi】：Golang+Gin框架+Gorm
 2.  项目数据库：Mysql+Redis
 3.  项目前端【vuesui】：Vue+Vditor
-4.  接入大语言模型AI，ollama部署所需的模型，具体部署方式可参考[ollama搭建本地ai大模型并应用调用](https://www.cnblogs.com/ggtop/p/18368333) 
+4.  接入大语言模型AI，ollama部署所需的模型，具体部署方式可参考[ollama搭建本地ai大模型并应用调用](https://zhuanlan.zhihu.com/p/722151941) 
 
 
 #### 安装教程
